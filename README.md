@@ -17,3 +17,13 @@
 - [ORGB-1100 - Organizational Behaviour](https://github.com/niyzne/ACIT/blob/main/level-1/ORGB-1100-Organizational-Behaviour/README.md)
 
 ---
+**Important Note:**
+
+> - This repository is student-maintained. Content may contain mistakes or become outdated.
+> - Always verify the following against official course materials:
+>   - Course requirements
+>   - Assignment instructions
+>   - Deadlines
+>   - Grading information
+
+---
